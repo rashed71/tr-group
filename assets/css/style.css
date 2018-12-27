@@ -24,7 +24,6 @@ p {
     margin-bottom: 0;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Agency FB', arial;
     margin: 0;
 }
 ul {
@@ -63,7 +62,7 @@ li {
 /*============  header start ============*/
 
 .header-logo{
-    padding: 13px 0px;
+    padding: 16px 0px;
 }
 .main-menu ul {
     padding: 40px 0;
@@ -102,6 +101,7 @@ li {
 .carousel-caption h2 {
     font-size: 65px;
     line-height: 85px;
+    font-family: 'Agency FB', arial;
 }
 .carousel-caption p {
     font-size: 18px;
@@ -157,6 +157,7 @@ li {
     color: #fff;
 }
 .abt-content-text h3 {
+    font-family: 'Agency FB', arial;
     font-size: 30px;
     line-height: 38px;
     margin-bottom: 15px;
@@ -196,13 +197,14 @@ li {
     color: #fff;
     text-decoration: none;
 }
-.work-section-top h2 {
+.our-work-top h2 {
+    font-family: 'Agency FB', arial;
     font-size: 40px;
     line-height: 45px;
     font-weight: 700;
     color: #000;
 }
-.work-section-top p {
+.our-work-top p {
     font-size: 16px;
     line-height: 30px;
     font-weight: 500;
@@ -312,6 +314,7 @@ li {
 }
 .section-top h2,
 .headline-content h2 {
+    font-family: 'Agency FB', arial;
     font-size: 35px;
     line-height: 45px;
     font-weight: 600;
@@ -401,7 +404,7 @@ li {
 }
 .contact-details span i {
     font-size: 20px;
-    line-height: 30px;
+    line-height: 23px;
     margin-right: 15px;
 }
 .location,
